@@ -1,4 +1,4 @@
-# Curso-B-sico-de-Django
+# Curso-Básico-de-Django
 
 ## App-Enquete
 
